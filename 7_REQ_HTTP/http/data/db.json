@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": "3502",
+      "name": "Teste",
+      "price": "5.9"
+    },
+    {
+      "id": "89c3",
+      "name": "Capa de chuva ",
+      "price": "7"
+    },
+    {
+      "id": "308a",
+      "name": "Capa de chuva ",
+      "price": "7"
+    },
+    {
+      "id": "6a74",
+      "name": "Fagner",
+      "price": "55"
+    },
+    {
+      "id": "7dc6",
+      "name": "Joia",
+      "price": "1234"
+    }
+  ]
+}
